@@ -1,0 +1,6 @@
+SKILL YANG HARUS DI KUASAI ATAU DI PELAJARI SEBELUM MULAI MAGANG (biar ada gambaran)
+- Belajar tentang web
+- Menguasai Bahasa pemrograman Java script
+- Mungkin akan belajar frameworks Java script
+- Belajar tentang css atau tailwaind
+- Belajar Linux(mungkin)
